@@ -274,7 +274,7 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="350" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="370" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I live in Pakistan, – it’s supposed to be</text>
     <text x="15" y="50">93° F (34° C) and <tspan class="emoji">☀️</tspan> today.</text>
   </g>
@@ -299,7 +299,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="525" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="515" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m a Software Developer. I used to work at different places,</text>
       <text x="15" y="50">
           but I’ve been at
