@@ -51,7 +51,7 @@ dayBubbleWidths = {
 
 // Time working at Software House
 const today = new Date()
-const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(
+const todayDay = new Intl.DateTimeFormat('en-PK', { weekday: 'long' }).format(
   today
 )
 
