@@ -49,7 +49,7 @@ dayBubbleWidths = {
   Sunday: 230,
 }
 
-// Time working at PlanetScale
+// Time working at Software House
 const today = new Date()
 const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(
   today
